@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class DiseaseSection extends StatelessWidget {
   final VoidCallback onTap;
 
-  DiseaseSection({required this.onTap});
+  const DiseaseSection({super.key, required this.onTap});
 
   @override
   Widget build(BuildContext context) {

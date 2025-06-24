@@ -5,6 +5,8 @@ import 'widgets/disease_section.dart';
 import 'widgets/schemes_section.dart';
 
 class GreenSetuHome extends StatefulWidget {
+  const GreenSetuHome({super.key});
+
   @override
   _GreenSetuHomeState createState() => _GreenSetuHomeState();
 }

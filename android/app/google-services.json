@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281545823437",
+    "project_id": "greensetu-ff2ce",
+    "storage_bucket": "greensetu-ff2ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281545823437:android:47a70dd02eaabd077a0584",
+        "android_client_info": {
+          "package_name": "com.example.greensetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TOLhYCzsnVOhWy7xwFSnmtDrXIy-ST0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

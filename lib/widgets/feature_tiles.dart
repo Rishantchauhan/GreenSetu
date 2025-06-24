@@ -4,7 +4,7 @@ class FeatureTiles extends StatelessWidget {
   final VoidCallback onMarketTap;
   final VoidCallback onNewsTap;
 
-  FeatureTiles({required this.onMarketTap, required this.onNewsTap});
+  const FeatureTiles({super.key, required this.onMarketTap, required this.onNewsTap});
 
   @override
   Widget build(BuildContext context) {
